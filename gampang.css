@@ -1,0 +1,15 @@
+/*   -----BUTTON-----   */
+.button {
+  display:inline-block;
+  padding:8px 16px;
+  vertical-align:middle;
+  text-decoration:none;
+  border-radius: 5px;
+  border: 1px solid #9c27b0;
+}
+
+/*   -----COLOR-----   */
+.cc-deep-purple {
+  background: #673ab7; 
+  color: #fff;
+}
