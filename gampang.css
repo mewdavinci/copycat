@@ -1,14 +1,28 @@
-/*   -----BUTTON-----   */
-.button {
-  display:inline-block;
-  padding:8px 16px;
-  vertical-align:middle;
-  text-decoration:none;
+/*   -----FORM BUTTON-----   */
+.rounded-button {
+  display: inline-block;
+  padding: 8px 16px;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none !important;
   border-radius: 5px;
-  border: 1px solid #9c27b0;
+  background-color: #506DFA;
+  color: #fff;
+  border: none;
 }
 
-/*   -----COLOR-----   */
+/*   -----FORM INPUT-----   */
+.rounded-input {
+  display: inline-block;
+  border-radius: 5px;
+  border-bottom: 3px solid #506DFA;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  background-color: #fff;
+}
+
+/*   -----BACKGROUND COLOR-----   */
 .cc-deep-purple {
   background: #673ab7; 
   color: #fff;
