@@ -27,3 +27,13 @@
   background: #673ab7; 
   color: #fff;
 }
+
+
+/*   -----TEXT ALIGN-----   */
+.cc-text-right {
+    text-align : right;
+}
+
+.cc-text-center {
+    text-align : center;
+}
