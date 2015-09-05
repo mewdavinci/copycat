@@ -37,3 +37,11 @@
 .cc-text-center {
     text-align : center;
 }
+
+.cc-text-left {
+  text-align: left;
+}
+
+.cc-text-justify {
+  text-align: justify;
+}
